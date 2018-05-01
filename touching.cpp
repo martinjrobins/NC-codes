@@ -196,8 +196,6 @@ int main(){
      * periodic in x and y
      */
 
-    particles.init_neighbour_search(vdouble2(0,0), 5*vdouble2(length_x,length_y), vbool2(false,false));
-
 
     /*
      * compact initialisation
